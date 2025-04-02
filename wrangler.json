@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "soft-dream-39eb",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "db33fbb8-fb76-4dd7-914b-7b84f84e1b18",
+      "database_name": "quiet-sea-e504-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
